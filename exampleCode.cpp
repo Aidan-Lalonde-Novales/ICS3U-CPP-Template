@@ -19,7 +19,7 @@ int main() {
     std::cin >> cost;
 
     // Process
-    total = cost * HST);
+    total = cost * HST;
 
     // Output
     std::cout << "It will cost $" << std::fixed
